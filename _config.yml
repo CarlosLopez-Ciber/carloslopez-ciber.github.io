@@ -1,163 +1,163 @@
-# The Site Configuration
+# Configuración del sitio
 
-# Import the theme
+# Importar el tema
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
-lang: en
+# Idioma del sitio web › http://www.lingoes.net/en/translator/langcode.htm
+# Si coincide con el nombre de uno de los archivos en la carpeta `_data/locales`,
+# el idioma del diseño también se cambiará. De lo contrario, se usará el valor por defecto 'en'.
+lang: es
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+# Cambia a tu zona horaria › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: America/Lima
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# Configuración de jekyll-seo-tag › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Drowsy Researcher # título principal
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Bitácora de un estudiante de ciberseguridad y entusiasta autodidacta # se mostrará como subtítulo
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # usado para metadatos SEO y el feed Atom
+  Blog de Carlos Lopez, estudiante de Administración de Ciberseguridad y entusiasta autodidacta de la ciberseguridad. Comparte conocimientos, investigaciones y experiencias técnicas en laboratorios, enfocados en seguridad informática, ciencia y aprendizaje continuo.
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
+# Rellena con el protocolo y nombre de dominio de tu sitio.
+# Ejemplo: 'https://usuario.github.io', sin la barra al final.
 url: "https://carloslopez-ciber.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: CarlosLopez-Ciber # cambia esto por tu nombre de usuario en GitHub
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#  username: twitter_username # cambia esto por tu nombre de usuario en Twitter
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  # Cambia esto por tu nombre completo.
+  # Se mostrará como autor por defecto y propietario de los derechos en el pie de página
+  name: Carlos Lopez
+  #email: example@domain.com # cambia esto por tu correo electrónico
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
+    # El primer enlace sirve como enlace de derechos de autor
+    # https://twitter.com/username # cambia esto por tu Twitter
+    - https://github.com/CarlosLopez-Ciber # cambia esto por tu GitHub
+    # Descomenta las siguientes líneas para agregar más redes sociales
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-# Site Verification Settings
+# Configuración de verificación del sitio
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  google: # ingresa tu código de verificación de Google
+  bing: # ingresa tu código de verificación de Bing
+  alexa: # ingresa tu código de verificación de Alexa
+  yandex: # ingresa tu código de verificación de Yandex
+  baidu: # ingresa tu código de verificación de Baidu
+  facebook: # ingresa tu código de verificación de Facebook
 
 # ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+# Fin de la configuración de `jekyll-seo-tag`
 
-# Web Analytics Settings
+# Configuración de análisis web
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: # ingresa tu ID de Google Analytics
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: # ingresa tu ID de GoatCounter
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id: # ingresa tu ID de Umami
+    domain: # ingresa tu dominio de Umami
   matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
+    id: # ingresa tu ID de Matomo
+    domain: # ingresa tu dominio de Matomo
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: # ingresa tu token de Cloudflare Web Analytics
   fathom:
-    id: # fill in your Fathom Site ID
+    id: # ingresa tu ID del sitio en Fathom
 
-# Page views settings
+# Configuración de conteo de vistas
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: # actualmente solo se admite 'goatcounter'
 
-# Prefer color scheme setting.
+# Preferencia del esquema de color.
 #
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
+# Nota: Si se deja vacío, se seguirá por defecto el esquema de color del sistema,
+# y habrá un interruptor para cambiar entre el tema claro y oscuro
+# en la parte inferior izquierda de la barra lateral.
 #
-# Available options:
+# Opciones disponibles:
 #
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
+#     light — Usar el esquema de color claro
+#     dark — Usar el esquema de color oscuro
 #
 theme_mode: # [light | dark]
 
-# The CDN endpoint for media resources.
-# Notice that once it is assigned, the CDN url
-# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+# El endpoint del CDN para recursos multimedia.
+# Ten en cuenta que una vez asignado, la URL del CDN
+# se agregará a todos los recursos multimedia (avatar del sitio, imágenes de publicaciones, archivos de audio y video)
+# cuyos caminos comiencen con '/'
 #
-# e.g. 'https://cdn.com'
+# Ejemplo: 'https://cdn.com'
 cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar:
+# Avatar en la barra lateral, admite recursos locales o de CORS
+avatar: _site/assets/img/favicons/web-app-manifest-192x192.png
 
-# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-# It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+# URL de la imagen de vista previa social del sitio, usada en la metaetiqueta SEO `og:image`.
+# Puede ser sobrescrita por una imagen personalizada `page.image` en los metadatos de una página.
+social_preview_image: # cadena de texto, recurso local o CORS
 
-# boolean type, the global switch for TOC in posts.
+# Tipo booleano, interruptor global para mostrar la tabla de contenido (TOC) en publicaciones.
 toc: true
 
 comments:
-  # Global switch for the post-comment system. Keeping it empty means disabled.
+  # Interruptor global para el sistema de comentarios en las publicaciones. Si se deja vacío, estará desactivado.
   provider: # [disqus | utterances | giscus]
-  # The provider options are as follows:
+  # Las opciones de proveedor son las siguientes:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
+    shortname: # completa con el shortname de Disqus › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # Configuración de utterances › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
+    repo: # <usuario-github>/<repositorio>
     issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
+  # Opciones de Giscus › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: # <usuario-github>/<repositorio>
     repo_id:
     category:
     category_id:
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    mapping: # opcional, por defecto es 'pathname'
+    strict: # opcional, por defecto es '0'
+    input_position: # opcional, por defecto es 'bottom'
+    lang: # opcional, por defecto usa el valor de `site.lang`
+    reactions_enabled: # opcional, por defecto es '1'
 
-# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+# Recursos estáticos autohospedados, opcional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
-    # specify the Jekyll environment, empty means both
-    # only works if `assets.self_host.enabled` is 'true'
+    enabled: # booleano, si se deja vacío será false
+    # especificar el entorno Jekyll, vacío significa ambos
+    # solo funciona si `assets.self_host.enabled` es 'true'
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: true # Habilita la característica PWA (instalable)
   cache:
-    enabled: true # The option for PWA offline cache
-    # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
-    # shares the same domain name as the current website.
+    enabled: true # Habilita la caché offline para PWA
+    # Las rutas definidas aquí serán excluidas de la caché PWA.
+    # Usualmente se usa cuando otro sitio web comparte el mismo dominio.
     deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      # - "/ejemplo"  # Las URLs que coincidan con `<SITE_URL>/ejemplo/*` no serán almacenadas en caché por PWA
 
 paginate: 10
 
-# The base URL of your site
+# La URL base de tu sitio
 baseurl: ""
 
-# ------------ The following options are not recommended to be modified ------------------
+# ------------ Las siguientes opciones no se recomienda modificarlas ------------------
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
-  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts: # Opciones de Rouge › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
     span:
@@ -173,14 +173,13 @@ collections:
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: "" # Una cadena vacía significa todos los archivos del proyecto
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
-      toc: true # Display TOC column in posts.
-      # DO NOT modify the following parameter unless you are confident enough
-      # to update the code of all other post links in this project.
+      comments: true # Habilitar comentarios en publicaciones
+      toc: true # Mostrar tabla de contenido en publicaciones
+      # NO modifiques el siguiente parámetro a menos que sepas actualizar todos los enlaces de publicaciones
       permalink: /posts/:title/
   - scope:
       path: _drafts
@@ -188,7 +187,7 @@ defaults:
       comments: false
   - scope:
       path: ""
-      type: tabs # see `site.collections`
+      type: tabs # ver `site.collections`
     values:
       layout: page
       permalink: /:title/
