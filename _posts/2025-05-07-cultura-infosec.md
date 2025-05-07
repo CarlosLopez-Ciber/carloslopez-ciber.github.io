@@ -30,7 +30,7 @@ El acto de realizar un ataque —desde una perspectiva ofensiva o como parte de 
 
 ## El Manifiesto Hacker
 
-Un documento icónico que ilustra la mentalidad de la comunidad hacker es [**The Conscience of a Hacker**](http://phrack.org/issues/7/3.html), también conocido como _The Hacker Manifesto_. Publicado en 1986 en la revista _Phrack_, refleja los ideales de la comunidad de hacking clandestino de la época:
+Un documento icónico que ilustra la mentalidad de la comunidad hacker es **The Conscience of a Hacker** que lo puedes encontrar en phrack[.]org/issues/7/3[.]html, también conocido como _The Hacker Manifesto_. Publicado en 1986 en la revista _Phrack_, refleja los ideales de la comunidad de hacking clandestino de la época:
 
 > _"Mi crimen es el de la curiosidad. Mi crimen es el de juzgar a la gente por lo que dicen y piensan, no por cómo se ven."_
 
