@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # Avatar en la barra lateral, admite recursos locales o de CORS
-avatar: _site/assets/img/favicons/web-app-manifest-192x192.png
+avatar: assets/img/favicons/web-app-manifest-192x192.png
 
 # URL de la imagen de vista previa social del sitio, usada en la metaetiqueta SEO `og:image`.
 # Puede ser sobrescrita por una imagen personalizada `page.image` en los metadatos de una página.
