@@ -1,6 +1,11 @@
+---
+layout: post
+title:  "Cultura Infosec"
+---
+
 # Cultura InfoSec
 
-La cultura **InfoSec** (Seguridad de la Información) engloba no solo prácticas técnicas y normativas, sino también una filosofía compartida por profesionales y entusiastas de la seguridad que valoran el conocimiento profundo, la curiosidad técnica y el pensamiento crítico.
+La cultura *c*InfoSec** (Seguridad de la Información) engloba no solo prácticas técnicas y normativas, sino también una filosofía compartida por profesionales y entusiastas de la seguridad que valoran el conocimiento profundo, la curiosidad técnica y el pensamiento crítico.
 
 ## El Término “Hacker”: Más Allá del Estereotipo
 
