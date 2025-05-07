@@ -8,3 +8,4 @@ order: 2
 ## Introducción
 
 - [Cultura Infosec](/posts/cultura-infosec/)
+- [PLataformas Certificadoras](/posts/plataformas-certificadoras/)
