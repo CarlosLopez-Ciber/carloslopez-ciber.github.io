@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cultura Infosec"
+title: "Cultura Infosec"
 ---
 
 # Cultura InfoSec

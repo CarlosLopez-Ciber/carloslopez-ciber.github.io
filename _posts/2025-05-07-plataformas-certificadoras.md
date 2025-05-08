@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plataformas Certificadoras"
+title: "Plataformas Certificadoras"
 ---
 
 # Plataformas Certificadoras
