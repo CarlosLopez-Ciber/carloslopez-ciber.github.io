@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Canales de YouTube"
+image: https://www.freepik.es/foto-gratis/servicio-contenido-internet-conexion-editorial-linea_1235345.htm#fromView=search&page=1&position=3&uuid=3afc0a68-2285-4b5c-8985-8a77078e6370&query=youtube
 ---
 
 # Canales de YouTube

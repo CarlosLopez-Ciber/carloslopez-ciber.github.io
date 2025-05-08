@@ -5,11 +5,11 @@ title: "Recursos Adicionales"
 
 # Recursos Adicionales
 
-## DIccionario de Ciberseguridad
+## Diccionario de Ciberseguridad
 
 [Cyber Security Glossary](https://heimdalsecurity.com/glossary?utm_source=Cyber+Security+for+Beginners+Course\&utm_campaign=d2ac13b6f0-Lesson_4\&utm_medium=email\&utm_term=0_92bee2093e-d2ac13b6f0-198347309\&goal=0_92bee2093e-d2ac13b6f0-198347309#A)
 
-## LIsta de Certificaciones Gratuitas
+## Lista de Certificaciones Gratuitas
 
 [Free Certification](https://github.com/cloudcommunity/Free-Certifications)
 
