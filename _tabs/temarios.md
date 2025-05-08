@@ -9,6 +9,6 @@ order: 2
 
 - [Cultura Infosec](/posts/cultura-infosec/)
 - [Plataformas Certificadoras](/posts/plataformas-certificadoras/)
-- [Canales de YouTube](/posts/canales-de-youtube/)
+- [Canales de YouTube](/posts/canales-youtube/)
 - [Recursos Adicionales](/posts/recursos-adicionales/)
 
