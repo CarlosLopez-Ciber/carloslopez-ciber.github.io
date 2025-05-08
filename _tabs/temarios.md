@@ -14,8 +14,4 @@ order: 2
 
 # CTFs
 
-##  HackMyVM
-
-### Chapter 1 - Venus
-
-qué es?
+- [Hack My VM](/posts/hackmyvm/)
