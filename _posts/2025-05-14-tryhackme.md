@@ -8,4 +8,4 @@ hidden: true
 
 ## Facil
 
-- [Blue](/posts/blue/)
+- [Blue](/posts/blue)
