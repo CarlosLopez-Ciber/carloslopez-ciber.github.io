@@ -12,6 +12,7 @@ order: 2
 - [Canales de YouTube](/posts/canales-youtube/)
 - [Recursos Adicionales](/posts/recursos-adicionales/)
 
-# CTFs
+# WriteUps - CTFs
 
 - [Hack My VM](/posts/hackmyvm/)
+- [Try Hack Me](/posts/tryhackme/)
