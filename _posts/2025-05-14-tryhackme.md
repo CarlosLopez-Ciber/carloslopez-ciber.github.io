@@ -8,4 +8,4 @@ hidden: true
 
 ## Facil
 
-- [Blue](/posts/bluectf/)
+- [Blue](/_posts/2025-05-14-bluectf.md)
